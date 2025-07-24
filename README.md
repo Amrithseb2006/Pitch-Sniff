@@ -62,7 +62,7 @@ This can help startup founders validate their ideas before pitching or building,
 
 ## 🧑‍💻 Author
 
-**PitchSniff** is a personal AI project inspired by the future of multi-agent intelligence and startup innovation.
+**PitchSniff** is a personal AI project inspired by the future of multi-agent intelligence and startup innovation. Built by Amrith Sebastin.
 
 ---
 
